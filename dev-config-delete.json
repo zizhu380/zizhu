@@ -1,0 +1,917 @@
+
+  "m.779buy.com": {
+    "chapterPath": "/html/body/div[2]",
+    "checkUrl": "https://m.779buy.com/1157/1157351/",
+    "contentPath": "/html/body/div[2]/div[4]/div",
+    "nextLoop": false,
+    "nextLoopCnt": 15
+  },"www.ajiang8.com": {
+	"chapterPath": "/html/body/div/div[5]/div/dl",
+	"checkUrl": "https://www.ajiang8.com/93_93616/",
+	"contentPath": "/html/body/div/div[4]/div/div[4]",
+	"nextLoop": false,
+	"nextLoopCnt": 15
+},
+{
+    "www.kltxt.com": {
+        "chapterPath": "/html/body/section[3]/div/div/div/div[1]",
+        "checkUrl": "https://www.kltxt.com/shu59232/",
+        "contentPath": "/html/body/section/div/div/article",
+        "nextLoop": false,
+        "nextLoopCnt": 15
+    }
+},
+{
+     "www.ibiquges.org":{
+        "chapterPath":"/html/body/div[3]/div[7]/div",
+        "checkUrl":"https://www.ibiquges.org/117/117102/", 
+        "contentPath":"/html/body/div[3]/div[4]/div/div[3]"
+},"www.00ksw.com":{
+        "chapterPath":"/html/body/div[3]/div[2]/div/div[2]",
+        "checkUrl":"https://www.00ksw.com/html/3/3387/40644.html",
+        "contentPath":"/html/body/div[4]/div/div/div[2]/div[2]"
+},
+     "www.quledu.com":{
+        "chapterPath":"/html/body/div[2]/div[2]",
+        "checkUrl":"https://www.quledu.com/wcxs-25571/", 
+        "contentPath":"/html/body/div[3]"
+},
+"www.20xs.org": {
+    "chapterPath":"/html/body/div/div[5]/div[2]",
+    "checkUrl":"https://www.20xs.org/383580/",
+    "contentPath":"/html/body/div[5]",
+    "nextLoop":false,
+    "nextLoopCnt":15
+},
+"www.x81zw1.com": {
+        "chapterPath": "/html/body/div/div[6]",
+        "checkUrl": "https://www.x81zw2.com/book/71/71908/",
+        "contentPath": "/html/body/div/div[5]/div/div[3]",
+        "nextLoop": false,
+        "nextLoopCnt": 15
+    },
+    "www.24vips.com":{
+        "checkUrl":"https://www.24vips.com/48877",
+        "titlePath":"/html/body/div/div[5]/div[2]/div",
+        "contentPath":"/html/body/div[5]/div/div[4]"
+   },"www.fxnzw.com": {
+		"chapterPath": "/html/body/div[2]/div[4]/div[2]/ul",
+		"checkUrl": "https://www.fxnzw.com/fxnchapter/49797.html",
+		"contentPath": "/html/body/div[2]/div[5]/div[3]/div[1]/div[4]",
+		"nextLoop": false,
+		"nextLoopCnt": 15
+	},"www.00ksw.com":{"chapterPath":"/html/body/div[3]/div[2]/div/div[2]",
+          "checkUrl":"https://www.00ksw.com/html/3/3387/40644.html",
+          "contentPath":"/html/body/div[4]/div/div/div[2]/div[2]"
+    },
+
+    "jpxs123.cc":{
+        "chapterPath":"/html/body/div[3]/div[3]",
+        "checkUrl":"https://jpxs123.cc/khjj/8423.html",
+        "contentPath":"/html/body/div[3]/div/div[2]/div[2]",
+        "nextLoop":false,
+        "nextLoopCnt":15
+        },
+    "www.99wx.cc":{
+        "titlePath":"/html/body/div/div/div[2]/h1",
+        "contentPath":"/html/body/div/div/div[3]",
+        "nextUrlPath":"/html/body/div/div/div[3]/div/ul/li[2]/a"
+   },
+   "m.ddbqgtxt.com":{
+    "titlePath":"/html/body/div[1]/span[1]",
+    "contentPath":"/html/body/div[2]",
+    "nextUrlPath":"/html/body/p[2]/a[3]"
+   },
+     "m.biqunai.com":{
+    "titlePath":"/html/body/div[1]/span[1]",
+    "contentPath":"/html/body/div[2]",
+    "nextUrlPath":"/html/body/p[2]/a[3]"
+   },
+     "www.xxsy.net":{
+    "titlePath":"/html/body/div[1]/span[1]",
+    "contentPath":"/html/body/div[2]",
+    "nextUrlPath":"/html/body/p[2]/a[3]"
+   },
+    "m.zssq8.com":{
+    "titlePath":"/html/body/div[1]/span[1]",
+    "contentPath":"/html/body/div[2]",
+    "nextUrlPath":"/html/body/p[2]/a[3]"
+   },
+    "m.280xs.com":{
+    "titlePath":"/html/body/div[2]/div[2]",
+    "contentPath":"/html/body/div[2]/div[4]/div[1]",
+    "nextUrlPath":"/html/body/div[2]/div[3]/table/tbody/tr/td[3]/a"
+   },
+    "www.silukew.com":{
+    "titlePath":"/html/body/div[1]/div[4]/div/div[2]/h1",
+    "contentPath":"/html/body/div[1]/div[4]/div/div[4]",
+    "nextUrlPath":"/html/body/div[1]/div[4]/div/div[6]/a[3]"
+   },
+   "www.biqupai.com":{
+    "titlePath":"/html/body/div[1]/div[1]/div[2]/h1",
+    "contentPath":"/html/body/div[1]/div[1]/div[3]",
+    "nextUrlPath":"/html/body/div[1]/div[1]/div[6]/a[3]"
+   },
+   "www.doupozw.com":{
+        "titlePath":"/html/body/div[1]/div[1]/div[2]/h1",
+        "contentPath":"/html/body/div[1]/div[1]/div[3]",
+        "nextUrlPath":"/html/body/div[1]/div[1]/div[6]/a[3]"
+    },
+   "www.bqg06.com":{
+        "titlePath":"/html/body/div[1]/div[4]/div[1]/div[2]/h1",
+        "contentPath":"/html/body/div[1]/div[4]/div[1]/div[4]",
+        "nextUrlPath":"/html/body/div[1]/div[4]/div[1]/div[5]/a[3]"
+    },
+    "www.nitianxieshen.com":{
+        "titlePath":"/html/body/div/div/div[2]/h1",
+        "contentPath":"/html/body/div/div/div[3]",
+        "nextUrlPath":"/html/body/div/div/div[3]/div/ul/li[2]/a"
+    },
+    "www.biqkan.com":{
+        "titlePath": "/html/body/div/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div[1]/div[3]",
+        "nextUrlPath":"/html/body/div/div[4]/div[1]/div[5]/a[4]"
+    },
+    "www.xiaoshuowu.com":{
+        "titlePath":"/html/body/div[2]/div[3]/h1",
+        "contentPath":"/html/body/div[2]/div[3]",
+        "nextUrlPath":"/html/body/div[2]/div[4]/a[3]"
+
+    },
+    "book.sbkk8.com":{
+        "titlePath":"/html/body/div[5]/h1",
+        "contentPath":"/html/body/div[5]/div[1]",
+        "nextUrlPath":"/html/body/div[5]/div[3]/span[3]/a"
+
+    },
+
+    "www.51kanshu.cc":{
+        "titlePath":"/html/body/div[5]/h1",
+        "contentPath":"/html/body/div[5]/div[1]",
+        "nextUrlPath":"/html/body/div[5]/div[3]/span[3]/a"
+
+    },
+    "www.haoshuya.com":{
+        "titlePath":"/html/body/div[5]/h1",
+        "contentPath":"/html/body/div[5]/div[1]",
+        "nextUrlPath":"/html/body/div[5]/div[3]/span[3]/a"
+
+    },
+    "www.zwwx.com": {
+        "titlePath": "/html/body/div[1]/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div[1]/div[4]",
+        "nextUrlPath": "/html/body/div[1]/div[4]/div[1]/div[5]/a[4]"
+    },
+    "m.kubij.cc": {
+        "titlePath": "/html/body/h1",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[4]/a[3]"
+    },
+    "www.yshuge.org": {
+        "titlePath": "/html/body/div[1]/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div[1]/div[3]",
+        "nextUrlPath": "/html/body/div[1]/div[4]/div[1]/div[4]/a[4]"
+    },
+    "m.yncjzs.com": {
+        "titlePath": "/html/body/div[1]/div[1]/h1",
+        "contentPath": "/html/body/div[1]/div[2]/div[6]",
+        "nextUrlPath": "/html/body/div[1]/div[2]/div[8]/table/tbody/tr/td[4]/a"
+    },
+    "www.7878xs.net": {
+        "titlePath": "/html/body/div[4]/div[2]",
+        "contentPath": "/html/body/div[4]/div[4]/div[1]",
+        "nextUrlPath": "/html/body/div[4]/div[3]/a[3]"
+    },
+    "www.7878xs.cc": {
+    "titlePath": "/html/body/div[4]/div[2]",
+    "contentPath": "/html/body/div[4]/div[4]/div[1]",
+    "nextUrlPath": "/html/body/div[4]/div[3]/a[3]"
+    },
+    "www.bxwx333.org": {
+        "titlePath": "/html/body/div[1]/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div/div[4]",
+        "nextUrlPath": "/html/body/div[1]/div[4]/div/div[5]/a[3]"
+    },
+    "www.zmccx.com": {
+        "titlePath": "/html/body/div[1]/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div/div[4]",
+        "nextUrlPath": "/html/body/div[1]/div[4]/div/div[6]/a[4]"
+    },
+    "m.qitxt.com":{
+        "titlePath": "/html/body/div[4]/div[2]/p[1]",
+        "contentPath": "/html/body/div[4]/div[2]",
+        "nextUrlPath": "/html/body/div[4]/div[1]/ul/li[3]/a"
+    },
+    "hananke.com":{
+        "titlePath": "/html/body/div[1]/div[4]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div[3]",
+        "nextUrlPath": "/html/body/div[1]/div[6]/div[1]/a"
+    },
+    "www.jpxs123.com":{
+        "titlePath": "/html/body/div[1]/div[4]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div[3]",
+        "nextUrlPath": "/html/body/div[1]/div[6]/div[1]/a"
+    },
+    "www.51shucheng.net":{
+        "titlePath": "/html/body/div[1]/div[4]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div[3]",
+        "nextUrlPath": "/html/body/div[1]/div[6]/div[1]/a"
+    },
+    "9sct-xs.com":{
+        "titlePath": "/html/body/div[1]/h1",
+        "contentPath": "/html/body/div[2]/div[3]/div",
+        "nextUrlPath": "/html/body/div[2]/div[4]/table/tbody/tr/td[3]/a"
+    },
+    "wap.shuquge.com":{
+        "titlePath": "/html/body/div[1]/h1",
+        "contentPath": "/html/body/div[2]/div[3]/div",
+        "nextUrlPath": "/html/body/div[2]/div[4]/table/tbody/tr/td[3]/a"
+    },
+    "www.kanunu8.com":{
+        "titlePath": "/html/body/div/tbale/tbody/tr[2]/td/a",
+        "contentPath": "/html/body/div/table[5]/tbody/tr/td/p",
+        "nextUrlPath": "/html/body/div/table[7]/tbody/tr/td/table/tbody/tr/td[3]/strong/a"
+    },
+    "www.fanqienovel.com": {
+        "titlePath": "/html/body/div[1]/div/div/div/div[4]/h1",
+        "contentPath": "/html/body/div[1]/div/div/div/div[4]/div[2]",
+        "nextUrlPath": "/html/body/div[1]/div/div/div/div[4]/div[3]/button/span"
+    },
+    "m.kubij.com": {
+        "titlePath": "/html/body/h1",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[4]/a[3]"
+}, "weread.qq.com":{
+        "titlePath": "/html/body/div[1]/div[1]/div[1]/div[2]/span[1]/span",
+         "contentPath": "/html/body/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/canvas",
+         "nextUrlPath": "/html/body/div[1]/div[1]/div[1]/div[5]/div[1]/button"
+    },
+    "m.kubiji.net": {
+        "titlePath": "/html/body/h1",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[6]/a[3]"
+},
+    "www.zhhbqg.com":{
+	    "titlePath": "/html/body/div[3]/div[2]/h1",
+	    "contentPath": "/html/body/div[3]/div[2]/div[2]",
+	    "nextUrlPath": "/html/body/div[3]/div[2]/div[3]/ul/li[3]/a"
+},
+    "www.haonongcunzj.com":{
+        "titlePath": "/html/body/div[4]/div/div/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div/div/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div[4]/div/div/div[2]/div/a[3]"
+    },
+    "www.31xsw.net":{
+        "titlePath": "/html/body/div/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div[4]",
+        "nextUrlPath": "/html/body/div/div[4]/div/div[5]/a[3]"
+    },
+    "www.9cwx.com":{
+        "titlePath": "/html/body/div[3]/div/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div/div[3]",
+        "nextUrlPath": "/html/body/div[3]/div/div[5]/a[4]"
+    },
+    "www.xbiquge.com":{
+        "titlePath": "/html/body/div/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div/div[4]/a[4]"
+    },
+    "www.ddxs.cc": {
+        "titlePath": "/html/body/div/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div/div[4]/a[4]"
+    },
+    "www.biquge7.com": {
+        "titlePath": "/html/body/div[4]/div[3]/h1",
+        "contentPath": "/html/body/div[4]/div[3]/div[3]",
+        "nextUrlPath": "/html/body/div[4]/div[3]/div[4]/a[3]"
+    },
+    "www.5kanxs.com": {
+        "titlePath": "/html/body/div[2]/div[1]/div[1]/h1",
+        "contentPath": "/html/body/div[2]/div[1]/div[2]",
+        "nextUrlPath": "/html/body/div[2]/div[1]/p/a[3]"
+    },
+    "www.biqugevip.com": {
+        "titlePath": "/html/body/div/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div/div[2]/div[1]/a[4]"
+    },
+    "www.zhijianbook.com": {
+        "titlePath": "/html/body/div[1]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[1]/article",
+        "nextUrlPath": "/html/body/div[1]/div[1]/div[2]/div[2]/a[3]"
+    },
+    "www.xiaoshuo.cc": {
+        "titlePath": "/html/body/div[3]/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div[3]/div[2]/div[1]/ul/li[3]/a"
+    },
+    "wap.maxreader.net": {
+        "titlePath": "/html/body/div[1]/div[3]/h1",
+        "contentPath": "/html/body/div[1]/div[3]/div[2]",
+        "nextUrlPath": "/html/body/div[1]/div[3]/div[1]/a[4]"
+    },
+    "www.tstdoors.com": {
+        "titlePath": "/html/body/div[4]/div[1]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div[1]/div[1]/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div[4]/div[1]/div[1]/div[2]/div[1]/a[3]"
+    },
+    "www.ranwen8.com": {
+        "titlePath": "/html/body/div[3]/div/div[2]/div/h1",
+        "contentPath": "/html/body/div[3]/div/div[2]/div/div[2]",
+        "nextUrlPath": "/html/body/div[3]/div/div[2]/div/div[3]/a[4]"
+    },
+    "www.mht99.com": {
+        "titlePath": "/html/body/div[1]/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div[1]/div[3]",
+        "nextUrlPath": "/html/body/div[1]/div[4]/div[1]/div[4]/a[4]"
+    },
+    "www.bqxs520.com": {
+        "titlePath": "/html/body/div[1]/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div[1]/div[3]",
+        "nextUrlPath": "/html/body/div[1]/div[4]/div[1]/div[4]/a[4]"
+    },
+    "m.pinshuku.com": {
+        "titlePath": "/html/body/div[1]/h1",
+        "contentPath": "/html/body/div[1]/div[3]/div",
+        "nextUrlPath": "/html/body/div[1]/div[4]/table[1]/tbody/tr/td[3]/a"
+    },
+    "www.biqugeq.com": {
+        "titlePath": "/html/body/div[3]/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div[3]/div[2]/div[4]/ul/li[3]/a"
+    },
+     "https://javaguide.cn/": {
+        "titlePath": "/html/body/div[3]/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div[3]/div[2]/div[4]/ul/li[3]/a"
+    },
+    "www.81zw.com": {
+        "titlePath": "/html/body/div/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div[4]",
+        "nextUrlPath": "/html/body/div/div[4]/div/div[6]/a[3]"
+    },
+    "www.biqugge.com": {
+        "titlePath": "/html/body/div[2]/div/div[2]/div/div[1]/h1",
+        "contentPath": "/html/body/div[2]/div/div[2]/div/div[5]",
+        "nextUrlPath": "/html/body/div[2]/div/div[2]/div/div[7]/a[5]"
+    },
+    "www.kaolaks.com": {
+        "titlePath": "/html/body/div[5]/div[2]",
+        "contentPath": "/html/body/div[5]/div[5]",
+        "nextUrlPath": "/html/body/div[5]/div[4]/a[4]"
+    },
+    "www.hujuge.com": {
+        "titlePath": "/html/body/div[4]/div[1]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div[1]/div[1]/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div[4]/div[1]/div[1]/div[2]/div[1]/a[3]"
+    },
+    "www.ibswtan.com": {
+        "titlePath": "/html/body/div[1]/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[4]/div[1]/div[3]",
+        "nextUrlPath": "/html/body/div[1]/div[4]/div[1]/div[4]/a[4]"
+    },
+    "m.xbiquge.la": {
+        "titlePath": "/html/body/div[1]/h1",
+        "contentPath": "/html/body/div[2]/div[3]/div[1]",
+        "nextUrlPath": "/html/body/div[2]/div[2]/table/tr/td[3]/a"
+    },
+    "www.ujxs.com": {
+        "titlePath": "/html/body/div[2]/div/h3",
+        "contentPath": "/html/body/div[2]/div/div[2]/p",
+        "nextUrlPath": "/html/body/p[2]/a[3]"
+    },
+    "www.vipxs.la": {
+        "titlePath": "/html/body/div/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div[1]/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div[1]/div[2]/div[4]/a[4]"
+    },
+    "www.washuge.com": {
+        "titlePath": "/html/body/div[4]/div[2]/dl/dd[1]",
+        "contentPath": "/html/body/div[4]/div[2]/dl/dd[3]",
+        "nextUrlPath": "/html/body/div[4]/div[2]/dl/dd[6]/a[3]"
+    },
+    "www.longyuedu.com": {
+        "titlePath": "/html/body/div[2]/div[2]/dt",
+        "contentPath": "/html/body/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div[2]/div[4]/ul/li[3]/a"
+    },
+    "m.biqugetv.com": {
+        "titlePath": "/html/body/header/span",
+        "contentPath": "/html/body/div[2]",
+        "nextUrlPath": "/html/body/p[3]/a[3]"
+    },
+    "m.biqusa.com": {
+        "titlePath": "/html/body/header/span",
+        "contentPath": "/html/body/div",
+        "nextUrlPath": "/html/body/p/a[3]"
+    },
+     "m.huoqxs.com": {
+        "titlePath": "/html/body/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[2]/div[5]/div[1]",
+        "nextUrlPath": "/html/body/div/div[2]/div[3]/a[4]"
+    },
+     "www.nantunwang.com": {
+        "titlePath": "/html/body/article/h1",
+        "contentPath": "/html/body/article/div[3]/div",
+        "nextUrlPath": "/html/body/article/div[2]/a[3]"
+    },
+    "www.zuizaoxs.org": {
+        "titlePath": "/html/body/div/div[5]/div/div[2]/h1/a",
+        "contentPath": "/html/body/div/div[5]/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[5]/div/div[2]/div[1]/a[3]"
+    },
+    "www.55xs.cc": {
+        "titlePath": "/html/body/div[1]/div[1]/h1",
+        "contentPath": "/html/body/div[1]/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div[1]/div[2]/table[1]/tbody/tr/td[2]/a"
+    },
+    "www.biquge.lol": {
+        "titlePath": "/html/body/div[4]/div/div/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div/div/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div[4]/div/div/div[2]/div[1]/a[3]"
+    },
+    "www.xbiquge.la": {
+        "titlePath": "/html/body/div/div[3]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[3]/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[3]/div/div[2]/div[1]/a[4]"
+    },
+    "www.biqugek.cc": {
+        "titlePath": "/html/body/div/div[1]/div[2]/div[1]/h1",
+        "contentPath": "/html/body/div/div[1]/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div/div[1]/div[3]/a[3]"
+    },
+    "www.qb5.la": {
+        "titlePath": "/html/body/div[3]/h1",
+        "contentPath": "/html/body/div[3]/div[2]/div[1]",
+        "nextUrlPath": "/html/body/div[3]/div[2]/div[2]/a[3]"
+    },
+    "www.tsxsw.la": {
+        "titlePath": "/html/body/div[4]/div/div/div[3]/h1",
+        "contentPath": "/html/body/div[4]/div/div/div[3]/div[2]/div[1]",
+        "nextUrlPath": "/html/body/div[4]/div/div/div[3]/div[6]/a[3]"
+    },
+    "www.fyxfcw.com": {
+        "titlePath": "/html/body/div[4]/div/div/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div/div/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div[4]/div/div/div[2]/div[1]/a[3]"
+    },
+    "www.lishu123.com": {
+        "titlePath": "/html/body/div/div[3]/div[2]/h1",
+        "contentPath": "/html/body/div/div[3]/div[6]/div[1]",
+        "nextUrlPath": "/html/body/div/div[3]/div[7]/div[2]/a[3]"
+    },
+    "www.17k.com": {
+        "titlePath": "/html/body/div[4]/div[2]/div[2]/div[1]/h1",
+        "contentPath": "/html/body/div[4]/div[2]/div[2]/div[1]/div[2]",
+        "nextUrlPath": "/html/body/div[4]/div[2]/div[4]/ul/li[4]/a"
+    },
+    "www.biqugeu.net": {
+        "titlePath": "/html/body/div/div[3]/div[2]/div[2]/h1",
+        "contentPath": "/html/body/div/div[3]/div[2]/div[4]",
+        "nextUrlPath": "/html/body/div/div[3]/div[2]/div[2]/div/a[3]"
+    },
+    "book.zhulang.com": {
+        "titlePath": "/html/body/div[3]/div[2]/h2",
+        "contentPath": "/html/body/div[3]/div[2]",
+        "nextUrlPath": "/html/body/div[3]/div[4]/a[3]"
+    },
+    "www.du00.net": {
+        "titlePath": "/html/body/div[4]/div[2]/div[1]/h1",
+        "contentPath": "/html/body/div[4]/div[2]/div[3]/div[4]",
+        "nextUrlPath": "/html/body/div[4]/div[3]/a[5]"
+    },
+    "mm.kubiji.net": {
+        "titlePath": "/html/body/h1",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[6]/a[3]"
+    },
+    "www.yinyangdailiren.org": {
+        "titlePath": "/html/body/div[3]/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div[2]",
+        "nextUrlPath": "/html/body/div[3]/div[2]/div[3]/ul/li[3]/a"
+    },
+    "www.tszw.org": {
+        "titlePath": "/html/body/div[6]/div[1]/h1",
+        "contentPath": "/html/body/div[6]/div[1]/div[2]",
+        "nextUrlPath": "/html/body/div[6]/div[3]/a[5]"
+    },"m.tszw.org" : {
+        "titlePath": "/html/body/div[6]/div[1]/h1",
+        "contentPath": "/html/body/div[6]/div[1]/div[2]",
+        "nextUrlPath": "/html/body/div[6]/div[3]/a[5]"
+    },
+    "www.biquw.com": {
+        "titlePath": "/html/body/div[2]/div/div[2]/div/div[1]/h1",
+        "contentPath": "/html/body/div[2]/div/div[2]/div/div[5]",
+        "nextUrlPath": "/html/body/div[2]/div/div[2]/div/div[7]/a[5]"
+    },
+    "www.42zw.com": {
+        "titlePath": "/html/body/div/div[4]/div/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div/div/div[4]/a[4]"
+    },
+    "www.biqooge.com": {
+        "titlePath": "/html/body/div/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div/div[2]/div[1]/a[4]"
+    },
+    "www.biquwx.la":{
+        "titlePath": "/html/body/div/div[5]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[5]/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[5]/div/div[2]/div[1]/a[4]"
+    },
+    "www.shuquge.com": {
+        "titlePath": "/html/body/div/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div/div[2]/div[1]/a[4]"
+    },
+    "www.biquwo.org": {
+        "titlePath": "/html/body/div/div[3]/div[2]/div[2]",
+        "contentPath": "/html/body/div/div[3]/div[2]/div[4]",
+        "nextUrlPath": "/html/body/div/div[3]/div[2]/div[2]/div/a[3]"
+    },
+    "www.gelintest.com": {
+        "titlePath": "/html/body/div[4]/div[1]/div/h1",
+        "contentPath": "/html/body/div[4]/div[1]/div/div[2]",
+        "nextUrlPath": "/html/body/div[4]/div[1]/div/div[1]/a[4]"
+    },
+    "www.iqb5.com": {
+        "titlePath": "/html/body/div[3]/div[2]/dl/dd[1]/h1",
+        "contentPath": "/html/body/div[3]/div[2]/dl/dd[3]",
+        "nextUrlPath": "/html/body/div[3]/div[2]/dl/dd[2]/h3/a[3]"
+    },
+    "www.jinyoujixie.net": {
+        "titlePath": "/html/body/section/div/article/div[1]/h1/a",
+        "contentPath": "/html/body/section/div/article/div[2]",
+        "nextUrlPath": "/html/body/section/div/div[1]/ul/li[3]/a"
+    },
+    "www.facaibei.com": {
+        "titlePath": "/html/body/div[2]/div/div[2]/div/div[1]/h1",
+        "contentPath": "/html/body/div[2]/div/div[2]/div/div[5]",
+        "nextUrlPath": "/html/body/div[2]/div/div[2]/div/div[7]/a[5]"
+    },
+    "www.zhhtxt.com": {
+        "titlePath": "/html/body/div[4]/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div[4]/div[2]/div[3]/ul/li[3]/a"
+    },
+    "www.xs123.net": {
+        "titlePath": "/html/body/div/div[3]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[3]/div/div[4]",
+        "nextUrlPath": "/html/body/div/div[3]/div/div[2]/div[1]/a[3]"
+    },
+    "www.xs123.org": {
+        "titlePath": "/html/body/div/div[3]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[3]/div/div[4]",
+        "nextUrlPath": "/html/body/div/div[3]/div/div[2]/div[1]/a[3]"
+    },
+    "www.mayiwxw.com": {
+        "titlePath": "/html/body/div/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div/div[2]/div[1]/a[4]"
+    },
+    "www.jinchenghbgc.com": {
+        "titlePath": "/html/body/div/div[4]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div/div[2]/div[1]/a[4]"
+    },
+    "http://www.kb4.cc/": {
+        "titlePath": "/html/body/div[4]/div/div/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div/div/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div[4]/div/div/div[2]/div[1]/a[3]"
+    },
+    "www.soshuw.com": {
+        "titlePath": "/html/body/div[3]/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div[6]",
+        "nextUrlPath": "/html/body/div[3]/div[7]/a[3]"
+    },
+    "www.ywggzy.com": {
+        "titlePath": "/html/body/div[4]/div/div/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div/div/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div[4]/div/div/div[2]/div[4]/a[3]"
+    },
+    "www.hzh12.com": {
+        "titlePath": "/html/body/div[4]/div/div/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div/div/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div[4]/div/div/div[2]/div[4]/a[3]"
+    },
+     "www.biquger.com": {
+        "titlePath": "/html/body/div/div[5]/div[2]/div[1]/h1",
+        "contentPath": "/html/body/div/div[5]/div[2]/font[2]/div",
+        "nextUrlPath": "/html/body/div/div[5]/div[2]/div[2]/a[4]"
+    },
+    "m.sz-yaxin.com":{
+        "titlePath": "/html/body/div[3]/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div[2]/div[3]",
+        "nextUrlPath": "/html/body/div[3]/div[2]/div[4]/ul/li[3]/a"
+    },
+    "www.biquxsw.com":{
+        "titlePath": "/html/body/div[1]/div[2]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[2]/div[1]/div[4]",
+        "nextUrlPath": "/html/body/div[1]/div[2]/div[1]/div[6]/a[4]"
+    },
+    "www.lusetxt.com": {
+    "titlePath": "/html/body/div[4]/div[2]/h1",
+    "contentPath": "/html/body/div[4]/div[2]/div[1]",
+    "nextUrlPath": "/html/body/div[4]/div[2]/div[3]/ul/li[3]/a"
+  },
+    "m.du11du.com":{
+        "titlePath": "/html/body/div[1]/article/div[2]/h1",
+        "contentPath": "/html/body/div[1]/article/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div[1]/article/div[7]/ul/li[4]/a"
+    }
+    ,
+    "www.soxs.cc":{
+        "titlePath": "/html/body/div[1]/article/div[2]/h1",
+        "contentPath": "/html/body/div[1]/article/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div[1]/article/div[7]/ul/li[4]/a"
+    }
+    ,
+    "www.biduoxs.com":{
+        "titlePath": "/html/body/div[1]/article/div[2]/h1",
+        "contentPath": "/html/body/div[1]/article/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div[1]/article/div[7]/ul/li[4]/a"
+    } ,
+    "www.ibxbb.com":{
+        "titlePath": "/html/body/div[1]/article/div[2]/h1",
+        "contentPath": "/html/body/div[1]/article/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div[1]/article/div[7]/ul/li[4]/a"
+    }
+    ,
+    "www.xbiqupao.com":{
+        "titlePath": "/html/body/div[1]/article/div[2]/h1",
+        "contentPath": "/html/body/div[1]/article/div[2]/div[2]",
+        "nextUrlPath": "/html/body/div[1]/article/div[7]/ul/li[4]/a"
+    },
+    "www.yqxsge.com": {
+        "titlePath": "/html/body/div[4]/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[3]/div[2]",
+        "nextUrlPath": "/html/body/div[4]/div[2]/div[3]/ul/li[3]/a/font/font"
+    }
+    ,"www.doupo321.com":{
+        "titlePath": "/html/body/div/div/div[2]/h1",
+        "contentPath": "/html/body/div/div/div[4]",
+        "nextUrlPath": "/html/body/div/div/div[4]/div[1]/ul/a[3]"
+    }
+    ,"www.qu-la.com":{
+        "titlePath": "/html/body//h1[@class='chaptername']",
+        "contentPath": "/html/body//div[@class='txt']",
+        "nextUrlPath": "/html/body//a[@class='url_next']"
+    }
+    ,"www.26ks.cc":{
+        "titlePath": "/html/body/div/div/div[2]/h1",
+        "contentPath": "/html/body/div/div/div[4]",
+        "nextUrlPath": "/html/body/div/div/div[4]/div[1]/ul/a[3]"
+    }
+    ,"www.uukanshu.com":{
+        "titlePath": "/html/body/div[5]/div[1]/div[1]/div[1]/h1",
+        "contentPath": "/html/body/div[5]/div[1]/div[1]/div[2]",
+        "nextUrlPath": "/html/body/div[5]/div[1]/div[1]/div[3]/div[2]/a"
+    }
+    ,"web.w23us.com":{
+        "titlePath": "/html/body/div[5]/div[1]/div[1]/div[1]/h1",
+        "contentPath": "/html/body/div[5]/div[1]/div[1]/div[2]",
+        "nextUrlPath": "/html/body/div[5]/div[1]/div[1]/div[3]/div[2]/a"
+    },"dushu.baidu.com":{
+        "titlePath": "/html/body/div[5]/div[1]/div[1]/div[1]/h1",
+        "contentPath": "/html/body/div[5]/div[1]/div[1]/div[2]",
+        "nextUrlPath": "/html/body/div[5]/div[1]/div[1]/div[3]/div[2]/a"
+    },"www.aishuge.la":{
+         "titlePath": "/html/body/div[2]/div[1]/div[1]/h1",
+        "contentPath": "/html/body/div[2]/div[1]/div[2]",
+        "nextUrlPath": "/html/body/div[2]/div[1]/p/a[3]"
+    },"www.jhmmw.com":{
+         "titlePath": "/html/body/div/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div[1]/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div[1]/div[2]//div[1]/a[3]"
+    },"www.biqumo.com":{
+         "titlePath": "/html/body/div/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div[1]/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div[1]/div[2]//div[1]/a[3]"
+    },"www.qushuba.net":{
+         "titlePath": "/html/body/div/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div[1]/div[3]",
+        "nextUrlPath": "/html/body/div/div[4]/div[1]/div[4]"
+    }, "https://m.81xs.cc":{
+         "titlePath": "/html/body/div/span",
+         "contentPath": "/html/body/div[5]",
+         "nextUrlPath": "/html/body/p/a[3]"
+    }, "www.wxsy.net":{
+         "titlePath": "/html/body/div[4]/div/div[2]/div[1]/h1/a",
+         "contentPath": "/html/body/div[4]/div/div[2]/div[2]",
+         "nextUrlPath": "/html/body/div[4]/div/div[4]/a[3]"
+    }, "xs.sogou.com":{
+         "titlePath": "/html/body/div[4]/div[2]/h1",
+         "contentPath": "/html/body/div[4]/div[2]/div[2]",
+         "nextUrlPath": "/html/body/div[4]/div[3]/a[3]"
+    }, "www.readfar.com":{
+        "titlePath": "/html/body/div[4]/div[2]/h1",
+         "contentPath": "/html/body/div[4]/div[2]/div[2]",
+         "nextUrlPath": "/html/body/div[4]/div[3]/a[3]"
+    }, "www.zbwsw.com":{
+        "titlePath": "/html/body/div[4]/div[2]/h1",
+         "contentPath": "/html/body/div[4]/div[2]/div[2]",
+         "nextUrlPath": "/html/body/div[4]/div[3]/a[3]"
+    }, "www.xbiquwx.la":{
+        "titlePath": "/html/body/div[1]/div[5]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[5]/div[1]/div[4]",
+        "nextUrlPath": "/html/body/div[1]/div[5]/div[1]/div[2]/div[1]/a[4]"
+    }, "m.soxscc.cc":{
+        "titlePath": "/html/body/h1",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[4]/a[3]"
+    }, "www.bige7.com": {
+        "titlePath": "/html/body/div[4]/div[3]/h1",
+        "contentPath": "/html/body/div[4]/div[3]/div[3]",
+        "nextUrlPath": "/html/body/div[4]/div[3]/div[4]/a[3]"
+    },  "www.zhuashu2.com": {
+        "titlePath": "/html/body/div[3]/div[1]/div[2]/div/div[1]/h1",
+        "contentPath": "/html/body/div[3]/div[1]/div[2]/div/div[3]",
+        "nextUrlPath":"/html/body/div[3]/div[1]/div[2]/div/div[4]/a[3]"
+    }, "www.mengruan.com": {
+        "titlePath": "/html/body/div[3]/div[1]/div[2]/div/div[1]/h1",
+        "contentPath": "/html/body/div[3]/div[1]/div[2]/div/div[3]",
+        "nextUrlPath":"/html/body/div[3]/div[1]/div[2]/div/div[4]/a[3]"
+    }, "www.890h.com":{
+        "titlePath": "/html/body/div/div[5]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[5]/div/div[3]",
+        "nextUrlPath":"/html/body/div/div[5]/div/div[2]/div[1]/a[4]"
+    },"www.85dt.com":{
+        "titlePath": "/html/body/div/div[5]/div/div[2]/h1",
+        "contentPath": "/html/body/div/div[5]/div/div[3]",
+        "nextUrlPath":"/html/body/div/div[5]/div/div[2]/div[1]/a[4]"
+    },"www.kankezw.com":{
+        "titlePath": "/html/body/div/div[3]/div[1]/h1",
+        "contentPath": "/html/body/div/div[3]/div[1]/div[4]",
+        "nextUrlPath":"/html/body/div/div[3]/div[1]/div[5]/a[4]"
+    },"www.tongshu.net":{
+        "titlePath": "/html/body/div/div[4]/div[1]/div[2]/h1",
+        "contentPath": "/html/body/div/div[4]/div[1]/div[3]",
+        "nextUrlPath":"/html/body/div/div[4]/div[1]/div[5]/a[4]"
+    },"www.go5.cc":{
+        "titlePath": "/html/body/div[2]/div[3]/h1",
+        "contentPath": "/html/body/div[2]/div[3]/div",
+        "nextUrlPath":"/html/body/p/a[5]"
+    },"www.ltoooo.com":{
+        "titlePath": "/html/body/div[4]/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div[2]/div[3]",
+        "nextUrlPath":"/html/body/div[4]/div[2]/div[4]/ul/li[3]/a"
+    },"www.heyenovel.com":{
+        "titlePath": "/html/body/div[4]/div[2]/h1",
+        "contentPath": "/html/body/div[4]/div[2]/div[3]",
+        "nextUrlPath":"/html/body/div[4]/div[2]/div[4]/ul/li[3]/a"
+    },"www.yingsx.com":{
+        "titlePath": "/html/body/div[1]/div[6]/div/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[6]/div/div[3]",
+        "nextUrlPath":"/html/body/div[1]/div[6]/div/div[4]/a[4]"
+    },"m.yingsx.com":{
+        "titlePath": "/html/body/div[1]/div[6]/div/div[2]/h1",
+        "contentPath": "/html/body/div[1]/div[6]/div/div[3]",
+        "nextUrlPath":"/html/body/div[1]/div[6]/div/div[4]/a[4]"
+    },"www.lstxt.cc":{
+        "titlePath": "/html/body/div[3]/div[2]/h1",
+        "contentPath": "/html/body/div[3]/div[2]/div[2]",
+        "nextUrlPath":"/html/body/div[3]/div[2]/div[3]/ul/li[3]/a"
+    },"www.daomubiji.com":{
+        "titlePath": "/html/body/section/div[1]/div/header/h1",
+        "contentPath": "/html/body/section/div[1]/div/article",
+        "nextUrlPath":"/html/body/section/div[1]/div/nav/span[2]/a"
+    },
+    "m.biquge.biz":{
+        "titlePath":"/html/body/div[3]",
+        "contentPath":"/html/body/div[5]/div",
+        "nextUrlPath":"/html/body/div[9]/table/tbody/tr/td[3]/a"
+    },
+    "m.nmgzwwy.com":{
+        "titlePath":"/html/body/div[1]/div[4/]",
+        "contentPath":"/html/body/div[5]/div",
+        "nextUrlPath":"/html/body/div[9]/table/tbody/tr/td[3]/a"
+    },
+    "www.aixdzs.com":{
+        "titlePath":"/html/body/div[2]/h1",
+        "contentPath":"/html/body/div[4]",
+        "nextUrlPath":"/html/body/div[6]/a[3]"
+    },
+    "www.haoshuya.com":{
+        "titlePath":"/html/body/div[1]/div[5]/div[3]/div/div[1]/div[1]/h1",
+        "contentPath":"/html/body/div[1]/div[5]/div[3]/div/div[3]",
+        "nextUrlPath":"/html/body/div[1]/div[5]/div[3]/div/div[1]/div[3]/a[3]"
+    },
+    "www.biqupai.com":{
+        "titlePath":"/html/body/div/div[3]/div/div[2]/h1",
+        "contentPath":"/html/body/div/div[3]/div/div[4]",
+        "nextUrlPath":"/html/body/div/div[3]/div/div[2]/div[1]/a[3]"
+    },
+    "www.xbiquge.la":{
+        "titlePath":"/html/body/div[5]/div[4]/div/div[2]/h1",
+        "contentPath":"/html/body/div[5]/div[4]/div/div[3]",
+        "nextUrlPath":"/html/body/div[5]/div[4]/div/div[2]/div[1]/a[4]"
+    },
+    "kakuyomu.jp":{
+        "titlePath":"/html/body/div[1]/div[1]/div[2]/header/p[2]",
+        "contentPath":"/html/body/div[1]/div[1]/div[2]/div/div/div",
+        "nextUrlPath":"/html/body/div[1]/div[1]/div[4]/div[2]/a"
+    },
+    "www.75txt.com":{
+        "titlePath":"/html/body/div[5]/div/div[2]/h1",
+        "contentPath":"/html/body/div[5]/div/div[4]",
+        "nextUrlPath":"/html/body/div[5]/div/div[2]/div/a[4]"
+    },
+    "m.quduwu.com":{
+        "titlePath": "/html/body/div[1]/span[1]",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[2]/div[5]/dl/dd[1]/a"
+    },
+    "www.xbooktxt.net":{
+        "titlePath": "/html/body/div[1]/span[1]",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[2]/div[5]/dl/dd[1]/a"
+    },
+    "www.sdlchxwz.comt":{
+        "titlePath": "/html/body/div[1]/span[1]",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[2]/div[5]/dl/dd[1]/a"
+    },
+     "www.kanshu5.la":{
+        "titlePath": "/html/body/div[1]/span[1]",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[2]/div[5]/dl/dd[1]/a"
+    },
+     "www.qitxt.com":{
+        "titlePath": "/html/body/div[1]/span[1]",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[2]/div[5]/dl/dd[1]/a"
+    },
+    "www.gxlztc.net":{
+        "titlePath": "/html/body/div[1]/span[1]",
+        "contentPath": "/html/body/div[5]",
+        "nextUrlPath": "/html/body/div[2]/div[5]/dl/dd[1]/a"
+    },
+    "www.fyrsks.com":{
+        "chapterPath":"/html/body/div[3]/div[2]/div/div[2]/ul",
+        "checkUrl":"http://www.fyrsks.com/bqg/7941/",
+        "contentPath":"/html/body/div[4]/div/div/div[2]/div[2]"
+    },
+     "www.twxs8.com":{
+        "chapterPath":"/html/body/div[4]/div[2]",
+        "checkUrl":"http://www.twxs8.com/32_32325/",
+        "contentPath":"/html/body/div[4]/div/div[2]/div[2]"
+    },
+     "www.feiniaoks.com":{
+        "chapterPath":"/html/body/main/div/section[4]",
+        "checkUrl":"https://www.feiniaoks.com/book/25511.html",
+        "contentPath":"/html/body/main/div/div[2]"
+    },
+    "www.go5.cc":{"chapterPath":"/html/body/div[3]/div[2]/ul[2]",
+    "checkUrl":"http://www.go5.cc/book/67544/",
+    "contentPath":"/html/body/div[2]/div[3]"},
+    "www.ddxs.cc":{"chapterPath":"/html/body/div/div[6]/div/dl","checkUrl":"https://www.ddxs.cc/ddxs/167980/","contentPath":"/html/body/div/div[4]/div/div[3]/"},
+    "www.cits0871.com":{"chapterPath":"/html/body/div/div[6]/div","checkUrl":"http://www.cits0871.com/booktxt/11530/","contentPath":"/html/body/div/div[4]/div/div[3]"},
+     "www.24vips.com":{
+        "chapterPath":"/html/body/div/div[5]/div[2]/div",
+        "checkUrl":"https://www.24vips.com/48877",
+        "contentPath":"/html/body/div[5]/div/div[4]"
+    }
+    ,
+     "www.h2u2.com":{
+        "chapterPath":"/html/body/div[6]",
+        "checkUrl":"https://www.h2u2.com/book/9457/",
+        "contentPath":"/html/body/div[5]/div[3]/div[3]"
+    },
+   
+    "m.bqg124.com": {"chapterPath":"/html/body/div[3]","checkUrl":"https://m.bqg124.com/read/5223","contentPath":"/html/body/div[5]"},
+    "m.bqgqi.cc": {"chapterPath":"/html/body/div[3]","checkUrl":"https://m.bqgqi.cc/read/124347/","contentPath":"/html/body/div[5]"},
+    "www.moxiangbook.com": {
+        "chapterPath":"/html/body/section[4]/div/div[1]",
+        "checkUrl":"https://www.moxiangbook.com/content/BQIDAQlR.html",
+        "contentPath":"/html/body/section[3]/div/div[2]/article",
+        "nextLoop":false,
+        "nextLoopCnt":15
+        },
+    "www.uuxs8.cc": {"chapterPath":"/html/body/div[5]/div[5]/ul","checkUrl":"http://www.uuxs8.cc/r4607/","contentPath":"/html/body/div[4]/div[2]","nextLoop":false,"nextLoopCnt":15},
+    "wakuai.com":{
+	    "titlePath": "/html/body/div[3]/h3",
+        "contentPath": "/html/body/div[4]",
+        "nextUrlPath": "/html/body/div[5]/a[2]"
+    },
+    "www.x81xzw.com":{
+         "contentPath":"/html/body/div[1]/div[4]/div[1]/div/div[5]",
+
+"chapterPath":"/html/body/div[1]/div[4]/div[2]/div",
+
+"checkUrl":"https://www.x81xzw.com/65_65918/"
+    },
+    "www.biquge3.cc": {"chapterPath":"/html/body/div[4]/div/ul","checkUrl":"https://www.biquge3.cc/article/2525/","contentPath":"/html/body/div[3]/div[2]/div[2]","nextLoop":false,"nextLoopCnt":15}
+,  "www.shuhaige.net": {
+  "chapterPath": "/html/body/div/div[5]/div[2]/div",
+  "checkUrl": "https://www.shuhaige.net/59821/",
+  "contentPath": "/html/body/div[5]/div/div[4]",
+  "nextLoop": false,
+  "nextLoopCnt": 15
+},
+    "www.22biqu.com": {"chapterPath":"/html/body/div[4]","checkUrl":"https://www.22biqu.com/biqu83425/","contentPath":"/html/body/div[3]/div[2]/div[2]","nextPathText":"> 下一页"},
+    "www.ibiquw.info": {"chapterPath":".book_list","checkUrl":"http://www.ibiquw.info/book/4623/","contentPath":"#htmlContent","nextLoop":false,"nextLoopCnt":15}
+  }，
+   "www.xyeduku.com": {"chapterPath":"/html/body/div[5]/div","checkUrl":"https://www.xyeduku.com/2867/10053941.html","contentPath":"#htmlContent","nextLoop":false,"nextPathText":"> 下一页"},
+   "www.biqugezw.us": {"chapterPath":"/html/body/section/div[4]/div[2]/ul","checkUrl":"https://www.biqugezw.us/book/346016/","contentPath":"/html/body/section/div/article/div[2]","nextLoop":false,"nextLoopCnt":15}
+  }
